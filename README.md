@@ -29,10 +29,11 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-To execute the code
-clone this repository
-cd artist-app
-npm install
+## Run Code
+To execute the code, 
+clone this repository,
+cd artist-app,
+npm install,
 ng serve -o
 
 
